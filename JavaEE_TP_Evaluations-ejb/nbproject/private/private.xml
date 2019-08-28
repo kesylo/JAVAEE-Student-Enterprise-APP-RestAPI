@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/UsersServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/interfaces/IQuestionServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/StudentsServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/interfaces/IStudent_AnswerServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/EvaluationDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/QuestionsServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/Question.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/Student.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/QuestionBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/Answer.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/tools/HibernateUtil.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/interfaces/IUsersServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/TeachersServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/Teacher.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/UserBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/TeacherDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/User.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/Student_AnswerDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/PersonBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/TeacherBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/interfaces/IServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/EvaluationsServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/StudentBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/QuestionDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/BO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/AnswerDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/AnswerBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/Students_AnswersServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/EvaluationBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/Evaluation.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/bo/Student_AnswerBO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/dao/IDAO.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/interfaces/IChildrenUserServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/entity/Student_Answer.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/AnswersServices.java</file>
+            <file>file:/C:/Users/Kesylo/Documents/Perso/Projets/Netbeans/JavaEE_TP_Evaluations-master/JavaEE_TP_Evaluations-ejb/src/java/isib/ejb/services/interfaces/IAnswerServices.java</file>
+        </group>
+    </open-files>
+</project-private>

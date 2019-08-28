@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/db_evaluations_manager?zeroDateTimeBehavior=convertToNull</property>
+    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.password">Arafat.1994</property>
+    <!--
+    <property name="hibernate.hbm2ddl.auto">update</property> 
+    <property name="hibernate.current_session_context_class">thread</property>
+    <property name="hibernate.c3p0.min_size">1</property>
+    <property name="hibernate.c3p0.max_size">100</property>
+    <property name="hibernate.c3p0.timeout">0</property>
+    <property name="hibernate.c3p0.max_statement">0</property>
+    -->
+    <mapping class="isib.libraries.entity.User"/>
+    <mapping class="isib.libraries.entity.Student"/>
+    <mapping class="isib.libraries.entity.Teacher"/>
+    <mapping class="isib.libraries.entity.Evaluation"/>
+    <mapping class="isib.libraries.entity.Question"/>
+    <mapping class="isib.libraries.entity.Answer"/>
+    <mapping class="isib.libraries.entity.Student_Answer"/>
+  </session-factory>
+</hibernate-configuration>
